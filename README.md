@@ -1,5 +1,3 @@
-# SaiSrinivas
-Cybersecurity Analyst specializing in Vulnerability Assessment &amp; Penetration Testing (VAPT)
 # 👋 Hi, I'm Sai Srinivas Sindula  
 
 💻 **Entry-Level Cybersecurity Analyst** specializing in **Vulnerability Assessment & Penetration Testing (VAPT)** for web, API, and network environments.  
@@ -64,8 +62,8 @@ Used Wireshark, Metasploit, & Nmap for vulnerability detection. Recommended fire
 ---
 
 ## 📊 GitHub Stats
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSrinivas7337&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSrinivas7337&layout=compact&theme=radical)  
 
 ---
 
